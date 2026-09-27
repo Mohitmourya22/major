@@ -81,7 +81,7 @@ export default function AppNav() {
 
           <span className="pill">Prototype mode</span>
 
-          <UserButton afterSignOutUrl="/" />
+          <UserButton />
         </div>
       </header>
 
